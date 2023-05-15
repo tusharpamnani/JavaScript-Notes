@@ -1,0 +1,7 @@
+#mydiv{
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+    border: 2px solid;
+    position: relative;
+}
